@@ -1,4 +1,4 @@
-# SukiSU Ultra
+# SukiSU Ultra Plus
 
 **简体中文** | [English](README-en.md) | [日本語](README-ja.md) | [Türkçe](README-tr.md)
 
